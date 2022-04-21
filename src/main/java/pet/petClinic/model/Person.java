@@ -2,8 +2,8 @@ package pet.petClinic.model;
 
 public class Person {
 
-    String firstName;
-    String lastName;
+    private String firstName;
+    private String lastName;
 
     public void setFirstName(String firstName) {
         this.firstName = firstName;
